@@ -1,0 +1,3 @@
+com\doctor\crudhibernate\models\Producto.class
+com\doctor\crudhibernate\models\Pedido.class
+com\doctor\crudhibernate\controller\HibernateUtil.class
